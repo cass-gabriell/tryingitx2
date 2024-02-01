@@ -1,0 +1,7 @@
+im going
+to add
+some lines
+of txt
+to this before
+i save and send it 
+to git hub
